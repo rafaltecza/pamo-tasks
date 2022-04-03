@@ -1,12 +1,12 @@
-# pamo-tasks
+# PAMO - Zadania
 
-Task 1:
+# Task 1:
 
 Deadline: 19.03.2022
 Oryginalne repozytorium z datami push'a:
 https://github.com/rafaltecza/BMI-Calculator
 
-Task 2:
+# Task 2:
 Deadline: 02.03.2022
 Oryginalne repozytorium z datami push'a:
 https://github.com/rafaltecza/BeHealthy
