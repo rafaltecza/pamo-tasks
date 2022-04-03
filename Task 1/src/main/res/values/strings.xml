@@ -1,0 +1,9 @@
+<resources>
+   <string name="app_name">Kalkulator BMI</string>
+   <string name="unit">Cm</string>
+   <string name="height">Wzrost</string>
+   <string name="startingheight">170</string>
+   <string name="startingweight">60</string>
+   <string name="calculate_your_bmi">Sprawdź swoje BMI</string>
+   <string name="weight">Waga</string>
+</resources>
