@@ -1,4 +1,5 @@
 # PAMO - Zadania
+Author: Rafał Tęcza
 
 # Task 1:
 
@@ -16,3 +17,6 @@ https://github.com/rafaltecza/BeHealthy
 ![Alt text](https://i.imgur.com/NPXmw4X.png "Task2_3")
 ![Alt text](https://i.imgur.com/EldzTNy.png "Task2_4")
 ![Alt text](https://i.imgur.com/zuPcPjA.png "Task2_5")
+
+# Task 3:
+Deadline: 23.04.2022
