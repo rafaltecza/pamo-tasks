@@ -21,6 +21,5 @@ https://github.com/rafaltecza/BeHealthy
 # Task 3:
 Deadline: 23.04.2022
 
-https://imgur.com/vTSGPrm
 ![Alt text](https://i.imgur.com/vTSGPrm.png "Task3_1")
 ![Alt text](https://i.imgur.com/XoKREbq.png "Task3_2")
